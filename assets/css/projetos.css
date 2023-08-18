@@ -1,9 +1,9 @@
 #projetos {
-    background-color: #3d3d3d;
+    background-color: #1f455e;
 }
 
 .portfolio {
-    background-image: url(https://cdn.discordapp.com/attachments/957316110653464596/1094558908531605624/image.png);
+    background-image: url(/assets/img/thumb.png);
     background-size: cover;
 }
 
@@ -72,7 +72,7 @@ button:hover {
 }
 
 .pro div {
-    background-color: #705656;
+    background-color: #1f455e;
     width: 1000px;
     text-align: center;
     padding: 5% 0;
